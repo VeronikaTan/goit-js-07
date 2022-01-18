@@ -31,7 +31,4 @@ openImage.show()
 });
 
 
-
-
-
 console.log(galleryItems);
